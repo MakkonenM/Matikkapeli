@@ -1,0 +1,13 @@
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\obj\Debug\Matikkapeli.csproj.AssemblyReference.cache
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\obj\Debug\Matikkapeli.Kirjautuminen.resources
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\obj\Debug\Matikkapeli.Properties.Resources.resources
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\obj\Debug\Matikkapeli.Rekisteröityminen.resources
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\obj\Debug\Matikkapeli.csproj.GenerateResource.cache
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\obj\Debug\Matikkapeli.csproj.CoreCompileInputs.cache
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\bin\Debug\Database1.mdf
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\bin\Debug\Database1_log.ldf
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\bin\Debug\Matikkapeli.exe.config
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\bin\Debug\Matikkapeli.exe
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\bin\Debug\Matikkapeli.pdb
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\obj\Debug\Matikkapeli.exe
+C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\obj\Debug\Matikkapeli.pdb
