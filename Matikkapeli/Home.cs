@@ -97,7 +97,6 @@ namespace Matikkapeli
 
         private void Valmis_Click(object sender, EventArgs e)
         {
-            vastausBox.Text = "";
             Valmis.Enabled = false;
             Aloita.Enabled = true;
             timer1.Stop();
