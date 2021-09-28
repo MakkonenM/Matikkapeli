@@ -42,7 +42,7 @@ namespace Matikkapeli
         }
         private void Rekisteröityminen_Load(object sender, EventArgs e)
         {
-            cn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Miksumi\Desktop\Uusi kansio\Matikkapeli\Database1.mdf;Integrated Security=True");
+            cn = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\Miksumi\Desktop\Matikkapeli\Matikkapeli\Database1.mdf;Integrated Security=True");
             cn.Open();
         }
 
@@ -84,6 +84,21 @@ namespace Matikkapeli
             else
             {
                 MessageBox.Show("Anna arvo kaikkiin kenttiin.", "Virhe", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                textBox2.Focus();
+            }
+        }
+        private void textBox2_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                textBox3.Focus();
             }
         }
     }
