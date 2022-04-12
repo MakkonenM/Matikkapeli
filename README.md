@@ -1,3 +1,3 @@
 # Matikkapeli
 
-Koodi löytyy "master" branchista ja .cs tiedostot.
+Koodi löytyy "master" branchista.
